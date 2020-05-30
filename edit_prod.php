@@ -19,6 +19,7 @@
     }
 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,13 +30,10 @@
     <link rel="stylesheet" href="style/fontawesome/css/all.css">
 </head>
 <body>
-    
-    <nav class="d-flex justify-content-center navbar navbar-light bg-dark mb-3">
-        <a class="text-white navbar-brand" href="listar_prod.php">
-            <i class="fas fa-cash-register"></i>
-            Editar Productos
-        </a>
-    </nav>
+
+    <?php
+        require_once "navbar.php" ;
+    ?>
 
     <div class="container" style="width: 450px">
     

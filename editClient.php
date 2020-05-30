@@ -32,12 +32,9 @@
 </head>
 <body>
 
-    <nav class="d-flex justify-content-center navbar navbar-light bg-dark mb-3">
-        <a class="text-white navbar-brand" href="listar_prod.php">
-            <i class="fas fa-user"></i>
-            Register Client
-        </a>
-    </nav>
+    <?php
+        require_once "navbar.php" ;
+    ?>
 
 
     <form class="mt-5" action="SaveClient.php" method="post" style="width: 40%; margin : auto ">

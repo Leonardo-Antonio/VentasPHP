@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="style/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="style/fontawesome/css/all.css">
     <script src="js/codigo.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 </head>
 <body>
 
