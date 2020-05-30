@@ -24,7 +24,7 @@
         
         <a style="width: 420px" class="btn btn-block btn-outline-primary btn-sm" href="registrar_prod.php">
             <i class="fas fa-plus"></i>    
-            Registrar
+            Registrar producto
         </a>
     </div>
     

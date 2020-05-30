@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="style/fontawesome/css/all.css">
     <script src="js/codigo.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="style/jquery.js"></script>
+    <script type="text/javascript" src="style/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
 

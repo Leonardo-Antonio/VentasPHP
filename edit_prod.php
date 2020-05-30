@@ -28,6 +28,8 @@
     <title>Edit Products</title>
     <link rel="stylesheet" href="style/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="style/fontawesome/css/all.css">
+    <script src="style/jquery.js"></script>
+    <script type="text/javascript" src="style/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
 
